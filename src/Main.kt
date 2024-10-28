@@ -5,4 +5,5 @@ fun main() {
     myMutableList.add(0,12)
 
     println(myMutableList)
+    println("nfv qbv uf bnb")
 }
